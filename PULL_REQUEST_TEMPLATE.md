@@ -3,5 +3,5 @@
 
  | Name | Profile | Skills | Degree | PR | Rank|
  |:--------|:--------:|:------------:|:------------:|:------------:|:------------:|
- | [your name]( github link) | your profile | your skills | your degree | no. of pr merged | give rank,compare to current readme |
+ | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | vitaliaventel | Java, JS, Salesforce | M.Tech | 3 | 2 |
  
