@@ -14,7 +14,9 @@
  | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4| 2nd |
  | [aman935]() | <> | <> | <> | <> | <> |
  | [GeekyShiva]() | <> | <> | <> | <> | <> |
- | [zhenyaSymon]() | <> | <> | <> | <> | <> |
+ | [zhenyaSymon]() | <> | <> | <> | <> | <> 
+ | [sachincool]() | <> | <> | <> | <> | <> |
+ 
 
 
  
