@@ -17,7 +17,7 @@
  | [zhenyaSymon]() | <> | <> | <> | <> | <> 
  | [sachincool]() | <> | <> | <> | <> | <> |
  | [ms10398]() | <> | <> | <> | <> | <> |
- | [Ajit Jain](https://github.com/ajit-999) | IT student | Java | B. Tech. | <7> | <2nd> |
+ | [Ajit Jain](https://github.com/ajit-999) | IT student | Java | B. Tech. | 7 | 2nd |
  
  
 
