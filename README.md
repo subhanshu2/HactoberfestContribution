@@ -6,6 +6,9 @@
   
   
   #                            Rank your profile  with Hactoberfest PR 
+  
+  
+  ###                        Here you can verify your PR how many PR merged [Link](https://hacktoberfestchecker.herokuapp.com/).
 
 
  | Name | Profile | Skills | Degree Holds | PR | Rank|
