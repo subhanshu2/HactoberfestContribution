@@ -1,5 +1,5 @@
   
-  ### If you love to contribute open source then it is platform where we show your work/talent recognize in a rank.It will help for recruiter and as well as for you. [For More info](https://github.com/jsroyal/JobProfile/blob/master/RuleForRank.md)
+  ### If you love to contribute to open source,this is the platform where we show your work/talent recognized by rank. It will help recruiters and you as well. [For More info](https://github.com/jsroyal/JobProfile/blob/master/RuleForRank.md)
 -------------------------------------------------------------------------------------------------------------------------------
  
  
@@ -8,8 +8,8 @@
   #                            Rank your profile  with Hactoberfest PR 
   
   
-  ###                        Here you can verify how many your PR merged <br> 
-  ###                          Please click here to this [Link](https://hacktoberfestchecker.herokuapp.com/).
+  ###                        Here you can verify how many merged PR you have <br> 
+  ###                          For more details please click this [link](https://hacktoberfestchecker.herokuapp.com/).
 
 
  | Name | Profile | Skills | Degree Holds | PR | Rank|
@@ -23,7 +23,7 @@
 
  
  
- ### Do not forgot to give a Star     
+ ### Don't forget to start this repo.
  
 
  

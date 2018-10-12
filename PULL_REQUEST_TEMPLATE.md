@@ -1,6 +1,6 @@
 <!--
 Hi!
-Thanks for send PR to this ever-growing list open source user reconize repositry.
+Thanks for sending a PR to this ever-growing list open source user reconized repositry.
 Your contribution is valuable.
 In order to help us evaluate PRs better, we ask you to have a look at the following declaration and check the points you agree with. ( [x] )
 -->
