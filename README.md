@@ -19,6 +19,7 @@
  | [Aman Singh](https://github.com/aman935) | CS student | C/C++ | B. Tech. | 4 | 3rd|
  | [Shivank](https://github.com/GeekyShiva) | VR/AR developer | C++, C#, Unity and VR/AR Content | B.Tech | 4 | 4th | 
  | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4 | 5th |
+ | [Kunwar Ashutosh Singh]( https://github.com/kunwar1513115) | Software Engineer | Java, JS, Angular | B.Tech | 4 | 5th |
 
 
  
