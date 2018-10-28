@@ -19,7 +19,7 @@
  | [Aman Singh](https://github.com/aman935) | CS student | C/C++ | B. Tech. | 4 | 3rd|
  | [Shivank](https://github.com/GeekyShiva) | VR/AR developer | C++, C#, Unity and VR/AR Content | B.Tech | 4 | 4th | 
  | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4 | 5th |
-
+| [Vrashi Shrivastava](https://github.com/vrashi) | Software student | Python | B. Tech. | 7 | - |
 
  
  
