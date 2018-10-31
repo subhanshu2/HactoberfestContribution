@@ -15,14 +15,17 @@
  | Name | Profile | Skills | Degree Holds | PR | Rank|
  |:--------|:--------:|:------------:|:------------:|:------------:|:------------:|
  | [Ajit Jain](https://github.com/ajit-999) | IT student | Java | B. Tech. | 10 | 1st |
+ | [Kartik Jain](https://github.com/kartik-jain) | CS student | Java | B. Tech. | 10 | 1st |
  | [Jitendra Singh](https://github.com/jsroyal) | Software Engineer | Java,Data Structure, Algorithms | B.Tech | 9 | 2nd |
- | [Aman Singh](https://github.com/aman935) | CS student | C/C++ | B. Tech. | 4 | 3rd|
+ | [Vrashi Shrivastava](https://github.com/vrashi) | Software student | Python | B. Tech. | 7 | 3rd |
+ | [Aman Singh](https://github.com/aman935) | CS student | C/C++ | B. Tech. | 4 | 4th |
  | [Shivank](https://github.com/GeekyShiva) | VR/AR developer | C++, C#, Unity and VR/AR Content | B.Tech | 4 | 4th | 
- | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4 | 5th |
-| [Vrashi Shrivastava](https://github.com/vrashi) | Software student | Python | B. Tech. | 7 | - |
+ | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4 | 4th |
+ 
+ 
 
- 
- 
+
+
  ### Don't forget to start this repo.
  
 
