@@ -1,4 +1,5 @@
 # Rules for Ranking 
 
-- Ranking according, How many PR merged with Hactoberfest lebel and also mendatory at least 10 star on repo.
-- Every week top 5 profile PR will merging this repo according to rank so you need to updated with no. of PR and rank before Sunday 11:59 PM Every week 
+
+- Ranking will be made according to the numbers of PR merged with hacktoberfest tag. Also the repo where you are contributing should contain at lease 10 Stars.
+- Every week top 5 profile PR will be merging this repo according to rank so you need to updated with number of PR and rank before Sunday 11:59 PM Every week. 
